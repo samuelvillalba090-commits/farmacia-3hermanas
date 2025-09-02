@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Pantalla de Inicio de Sesión">
+    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="main_bg" value="" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#E3F2FD;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="600" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="title" value="💊 Sistema Farmacéutico - Login" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#BBDEFB;strokeColor=#000000;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="560" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_user" value="Usuario:" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="input_user" value="" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="300" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_pass" value="Contraseña:" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="input_pass" value="" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="300" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="chk_pass" value="☑ Mostrar contraseña" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="btn_login" value="Ingresar" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;fillColor=#64B5F6;strokeColor=#1565C0;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="180" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="note" value="Ingrese sus credenciales para acceder al sistema" style="shape=rect;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFF9C4;strokeColor=#000000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="400" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
